@@ -1,0 +1,1 @@
+This file contains course information that we will work out
