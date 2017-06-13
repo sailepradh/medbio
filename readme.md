@@ -1,6 +1,5 @@
-This file contains course information of whole program
+# This file contains course information
 
 * Applied Bioinformatics
-* Machine learning
-* Integrative bioinformatics
-* Experimental design for high throughput experiments
+* Machine Learning
+* Integrative Genomics
