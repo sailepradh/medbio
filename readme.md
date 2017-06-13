@@ -1,1 +1,4 @@
-This file contains course information that we will work out
+This file contains course information of whole program
+
+* Applied Bioinformatics
+* Machine learning
